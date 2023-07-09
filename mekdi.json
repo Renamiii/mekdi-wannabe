@@ -1,0 +1,76 @@
+{
+"menu" : [
+    {
+        "kategori" : "ayam",
+        "nama" : "Ayam Crispy Mcdonald's",
+        "deskripsi" : "Ayam goreng khas McDonald's , dengan kulit yang renyah dan daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+        "harga" : 20900,
+        "gambar" : "ayam-crispy.png"
+
+    },
+    {
+        "kategori" : "ayam",
+        "nama" : "Ayam Spicy Mcdonald's",
+        "deskripsi" : "Ayam goreng khas McDonald's dengan bumbu pedas, rasakan sensasi pedas pada kulit yang renyah hingga daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+        "harga" : 20900,
+        "gambar" : "ayam-spicy.png"
+
+    },
+    {
+        "kategori" : "burger",
+        "nama" : "Chicken Burger Deluxe",
+        "deskripsi" : "Burger ayam renyah yang disajikan dengan irisan selada segar dan tomat",
+        "harga" : 17900,
+        "gambar" : "chicken-burger.png"
+
+    },
+    {
+        "kategori" : "burger",
+        "nama" : "Beef Burger Deluxe",
+        "deskripsi" : "Burger dengan 100% daging sapi Australia dengan selada segar, tomat, acar timun, potongan bawang bombai dan mustard.",
+        "harga" : 17900,
+        "gambar" : "beef-burger.png"
+
+    },
+    {
+        "kategori" : "burger",
+        "nama" : "Big Mac",
+        "deskripsi" : "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen",
+        "harga" : 40900,
+        "gambar" : "big-mac.png"
+
+    },
+    {
+        "kategori" : "burger",
+        "nama" : "Double Cheeseburger",
+        "deskripsi" : "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard.",
+        "harga" : 30900,
+        "gambar" : "double-cheeseburger.png"
+
+    },
+    {
+        "kategori" : "minuman",
+        "nama" : "Iced Milo",
+        "deskripsi" : "Susu coklat Milo yang segar dan bernutrisi",
+        "harga" : 10900,
+        "gambar" : "iced-milo.png"
+
+    },
+    {
+        "kategori" : "minuman",
+        "nama" : "Iced Coffee",
+        "deskripsi" : "Kesegaran es kopi dari 100% Arabica khas McCafe",
+        "harga" : 15900,
+        "gambar" : "iced-coffee.png"
+
+    },
+    {
+        "kategori" : "minuman",
+        "nama" : "Iced Coffee Float",
+        "deskripsi" : "Es kopi 100% Arabika dengan susu yang segar dan tambahan es krim vanilla khas McDonald's",
+        "harga" : 25900,
+        "gambar" : "iced-coffee-float.png"
+
+    }
+    ]
+}
